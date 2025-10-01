@@ -13,9 +13,9 @@ Key workflows:
 - Accessing that repository using your IDE (Codespaces or local VS Code).
 - Launching a local development server to preview your project in a web browser.
 - Making a small change to the project.
+  - I wrote four lines of code to make the counter work. First, I incrememnted the counter every time the cuser clicks the button. Then, I created a new string variable, and once the counter updated, assign a string version of that counter to the new variable. Then I updated the textContent of the counterElement to accurate reflect the updated counter.
 - Manually testing your change locally.
-- Committing and pushing your change to your remote repository on GitHub, verifying that the deployment succeeds.
-- Removing this introductory documentation and replacing it with your own so that your project represents your voice, not that of the course staff. (Students: Don't let _this_ README.md be the only documentation in your project!)
+- Committing and pushing your change to your remote repository on GitHub, verifying that the deployment succeeds
 - Repeating the editing-to-publishing process to build familiarity with the overall workflow.
 
 ## Getting Started
@@ -41,4 +41,4 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 1. Go to your repository's Settings → Pages
 2. Under "Source", select "GitHub Actions"
 3. The workflow will automatically deploy on pushes to the `main` branch
-4. Your site will be published at `https://<your-github-username>.github.io/<repository-name>/`
+4. Your site will be published at `https://noahbaron05.github.io/cmpm-121-f25-s01-NoahBaron/`
